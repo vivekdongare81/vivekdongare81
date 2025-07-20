@@ -1,29 +1,55 @@
-## Vivek Dongare's GitHub Profile
+## 🚀 Vivek Dongare's GitHub Profile
 
-[![](https://img.shields.io/badge/GitHub-Vivek_Dongare-181717?logo=github)](https://github.com/vivekdongare81) 
-[![](https://img.shields.io/badge/Full_Stack-Developer-58a6ff)](#) 
-[![](https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript%20%7C%20CSS%20%7C%20Java-7f5acf)](#) 
-[![](https://img.shields.io/badge/Works_At-Zoho-ff4d4d)](#) 
+[![](https://img.shields.io/badge/GitHub-vivekdongare81-181717?logo=github)](https://github.com/vivekdongare81)
+[![](https://img.shields.io/badge/Full_Stack-Developer-58a6ff)](#)
+[![](https://img.shields.io/badge/Works_At-Zoho-ff4d4d)](#)
+[![](https://img.shields.io/badge/Java-Spring_Boot-blue)](#)
+[![](https://img.shields.io/badge/React-TypeScript-61dafb)](#)
 
-### 👋 Welcome to My GitHub Profile
+---
 
-Hey there! I'm Vivek Dongare, a software development engineer at Zoho with a passion for continual learning and collaborating on exciting projects. With a diverse skill set encompassing React, Java, TypeScript, and CSS, I strive to contribute meaningfully to the tech community.
+### 👋 Welcome!
+Hi, I'm **Vivek Dongare** — a Software Development Engineer at Zoho, passionate about building scalable, real-world solutions. I thrive on learning new technologies, collaborating on impactful projects, and delivering robust software.
 
-### 🚀 Quick Snapshot of My GitHub Journey
-- 📅 GitHub Member Since: November 2020
-- 🔧 Total Commits: 19
-- 🛠️ Languages: TypeScript, JavaScript, CSS, Java
-- 📌 Followers: 6 | Following: 9
+---
 
-### 🔍 Analysis of My Coding Habits
-My projects range from personal portfolio sites to innovative apps like PingPongChat and book notes collections. I greatly enjoy diverse challenges that push my boundaries, enabling me to continuously expand my skills. Collaboration is at the core of my work ethos as I've made meaningful contributions to various projects like "Dunk-N-Dogs."
+### 🛠️ Skills
+- **Backend:** Java, Spring Boot, REST APIs, PostgreSQL, Kafka, MongoDB
+- **Frontend:** React, TypeScript, JavaScript, CSS, D3.js
+- **DevOps:** Docker, CI/CD, Git
+---
 
-### 📁 Featured Projects
-- [vivekdongare-io-v3](https://github.com/vivekdongare81/vivekdongare-io-v3)
-- [PingPongChat](https://github.com/vivekdongare81/PingPongChat)
+### 📫 Contact
+- [LinkedIn](https://in.linkedin.com/in/vivek-dongare-50823a18b)
+- Email: dongarevivek81@gmial.com
 
-### 📩 Let's Connect
-- 📧 Email: vivekdongare@example.com
+---
+
+### 🌟 Featured Projects
+
+#### [StreamMyMeal Microservices Platform](https://github.com/vivekdongare81/StreamMyMeal-microservices)
+> **A cloud-ready food delivery and live streaming platform.**
+> - Real-time restaurant broadcasts with live viewer stats
+> - Visible hygiene assurance: customers watch chefs cook and interact live
+> - Seamless order and payment management
+> - Built with Java 17, Spring Boot, PostgreSQL, Kafka, Docker, React, mediasoup, WebSocket
+
+#### [EShoppers-Delight](https://github.com/vivekdongare81/EShoppers-Delight)
+> A fully authenticated eCommerce web app with React frontend, Postman-based backend APIs, and MongoDB support. 🛒🛍️
+
+#### [Multi-AutomationTools](https://github.com/vivekdongare81/Multi-AutomationTools)
+> Web automation using multiple libraries/tools and browser support. ⚒️
+
+#### [Data-Parsing_Analyzing_Visualizing-using-D3](https://github.com/vivekdongare81/Data-Parsing_Analyzing_Visualizing-using-D3)
+> Parse CSV to JSON and visualize data with D3.js (Bar/Pie charts). 📊
+
+#### [Food-O-Holic](https://github.com/vivekdongare81/Food-O-Holic)
+> Food ordering website using Java servlets, JSP, and MySQL. 🍴
+
+#### [Dunk-N-Dogs](https://github.com/vivekdongare81/Dunk-N-Dogs)
+> A visually appealing web page for a dog shop. 🐶
+
+---
 
 ### 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vivekdongare81&show_icons=true&hide_border=true)
@@ -32,9 +58,10 @@ My projects range from personal portfolio sites to innovative apps like PingPong
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivekdongare81)](https://github.com/vivekdongare81)
 
-### 🌟 GitHub Streak
+### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vivekdongare81)](https://git.io/streak-stats)
 
 ---
 
-With a blend of passion for coding and enthusiasm for learning, I am eager to take on exciting challenges and contribute meaningfully to the tech world. Feel free to explore my projects and connect with me. Let's create something awesome together! 🚀
+✨ With a blend of passion for coding and enthusiasm for learning, I am eager to take on exciting challenges and contribute meaningfully to the tech world. Feel free to explore my projects and connect with me. **Let's create something awesome together!** 🚀
+
