@@ -9,7 +9,7 @@
 ---
 
 ### 👋 Welcome!
-Hi, I'm **Vivek Dongare** — a Software Development Engineer at Zoho, passionate about building scalable, real-world solutions. I thrive on learning new technologies, collaborating on impactful projects, and delivering robust software.
+Hi, I'm **Vivek Dongare** a Software Development Engineer at Zoho, passionate about building scalable, real-world solutions. I thrive on learning new technologies, collaborating on impactful projects, and delivering robust software.
 
 ---
 
