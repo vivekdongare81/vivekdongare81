@@ -21,7 +21,7 @@ Hi, I'm **Vivek Dongare** a Software Development Engineer at Zoho, passionate ab
 
 ### 📫 Contact
 - [LinkedIn](https://in.linkedin.com/in/vivek-dongare-50823a18b)
-- Email: dongarevivek81@gmial.com
+- Email: dongarevivek81@gmail.com
 
 ---
 
