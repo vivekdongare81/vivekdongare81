@@ -16,7 +16,7 @@ Hi, I'm **Vivek Dongare** a Software Development Engineer at Zoho, passionate ab
 ### 🛠️ Skills
 - **Backend:** Java, Spring Boot, REST APIs, PostgreSQL, Kafka, MongoDB
 - **Frontend:** React, TypeScript, JavaScript, CSS, D3.js
-- **DevOps:** Docker, CI/CD, Git
+- **DevOps:** Docker, CI/CD, Git, AWS
 ---
 
 ### 📫 Contact
